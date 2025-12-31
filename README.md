@@ -17,7 +17,7 @@ Removing duplicates, standardizing, filling up NULLs fields, own system of measu
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Creating_view5.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Final_report6.jpg)
 
-[Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing)
+[Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Cleaning_Project.sql)
 
 ### 2. Exploratory Data Analysis Project - Layoffs 2022 (above related; My SQL)
 Deeper and wider investigation and anylysis of the data related to layoffs in big technology companies.
@@ -31,7 +31,7 @@ Working with more filters, substring and CTE's.
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/rolling6.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/CTE.jpg)
 
-[Detailed description and code](./Layoffs_Exploratory_Data_Analysis_Project/)
+[Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Exploratory_Data_Analysis_Project.sql)
 
 ### 3. Bike Buyers Dashboard (Excel)
 Interactive dashboard with an analyze of customers behavior who buy bikes.
@@ -42,7 +42,7 @@ Advanced formulas, Pivto tables, slicers, own columns + macro VBA for a refreshi
 ![Pivots](02_Bike_Buyers_Dashboard/Project_screenshots/Pivots3.jpg)
 ![Dashboard](02_Bike_Buyers_Dashboard/Project_screenshots/Final_dashboard_w_slices.jpg)
 
-![Detailed description & file](02_Bike_Buyers_Dashboard)
+![Detailed description & file](02_Bike_Buyers_Dashboard/Bike_Buyers_Dashboard.xlsm)
 
 ## Work in progress with...:
 - Tableau
