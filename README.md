@@ -17,7 +17,7 @@ Removing duplicates, standardizing, filling up NULLs fields, own system of measu
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Creating_view5.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Final_report6.jpg)
 
-[Detailed description and code](./Layoffs_Cleaning_Project/)
+[Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing)
 
 ### 2. Exploratory Data Analysis Project - Layoffs 2022 (above related; My SQL)
 Deeper and wider investigation and anylysis of the data related to layoffs in big technology companies.
@@ -42,7 +42,7 @@ Advanced formulas, Pivto tables, slicers, own columns + macro VBA for a refreshi
 ![Pivots](02_Bike_Buyers_Dashboard/Project_screenshots/Pivots3.jpg)
 ![Dashboard](02_Bike_Buyers_Dashboard/Project_screenshots/Final_dashboard_w_slices.jpg)
 
-![Detailed description & file](./Bike_Buyers_Dashboard/)
+![Detailed description & file](02_Bike_Buyers_Dashboard)
 
 ## Work in progress with...:
 - Tableau
