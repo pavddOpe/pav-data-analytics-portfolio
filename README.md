@@ -13,7 +13,7 @@ Removing duplicates, standardizing, filling up NULLs fields, own system of measu
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Editing_the_data21.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Editing_the_data_2.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Joining3.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Data_quality4)
+![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Data_quality4.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Creating_view5.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Final_report6.jpg)
 
