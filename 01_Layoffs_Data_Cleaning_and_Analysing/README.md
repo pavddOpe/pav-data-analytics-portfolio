@@ -6,6 +6,7 @@
 - Cleared NULLs & filling up missing spots.
 - Converting data types.
 - Additionally: summarizing report, data_quality_score, analitycal view.
+- Prepared based on "Alex the analyst Tutorial" with my self extensions and changes.
 
 ## Files
 - Layoffs_Cleaning_Project - full code
@@ -28,3 +29,4 @@ After the cleaning I did deeper analyze of the data:
 - layoffs_original_dataset.csv - raw data
 
 To have possibilities be updated in the future :)
+
