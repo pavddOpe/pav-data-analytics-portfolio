@@ -1,32 +1,33 @@
 # Data Analycis Portfolio
 
-Hi! Here is Pavlo, I really like to work with data.
-Here you can find some of my projects done in SQL, Excel, Tableau, Python, Power BI and others.
+Hi! I'm Pavlo, a data enthusiast passionate about turning raw data into meaningful insights.  
+I enjoy working with SQL, Excel, Tableau, Python, Power BI and other tools to solve real-world problems (for instance SAP & Salesforce).
+
+Here are some of my completed projects (more coming soon!):
 
 ## Projects
 
-### 1. Data Cleaning - Layoffs 2022 (MySQL)
-Cleaning database of laid offs in tech companies in the few recent years - mostly COVID time affected.
-Removing duplicates, standardizing, filling up NULLs fields, own system of measuring the quality of data + summarizing report.
+### 1. Data Cleaning - Global Layoffs 2020-2023 (MySQL)
+Cleaned a dataset of tech industry layoffs during and post-COVID era.
+Removed duplicates, standardized text values, handled NULLs and blanks, converted data types, created own system of measuring the quality of data + summarizing report.
 
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Duplicates_validation1.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Editing_the_data21.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Editing_the_data_2.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Joining3.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Data_quality4.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Creating_view5.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Final_report6.jpg)
 
 [Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Cleaning_Project.sql)
 
 ### 2. Exploratory Data Analysis Project - Layoffs 2022 (above related; My SQL)
-Deeper and wider investigation and anylysis of the data related to layoffs in big technology companies.
-Working with more filters, substring and CTE's.
+Deep dive into trends using advanced SQL:  
+- Total/percentage layoffs by company, industry, country, funding stage, and time  
+- Monthly trends with rolling (cumulative) totals using window functions  
+- Yearly top 5 companies by layoffs using CTEs and DENSE_RANK()
 
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/Data_analyze1.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/filtering2.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/filtering3.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/filtering4.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/substring5.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/rolling6.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/CTE.jpg)
@@ -34,8 +35,12 @@ Working with more filters, substring and CTE's.
 [Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Exploratory_Data_Analysis_Project.sql)
 
 ### 3. Bike Buyers Dashboard (Excel)
-Interactive dashboard with an analyze of customers behavior who buy bikes.
-Advanced formulas, Pivto tables, slicers, own columns + macro VBA for a refreshing.
+Built a fully interactive dashboard analyzing customer behavior and factors influencing bike purchases (1,000 records)
+Core features: pivot tables, pivot charts, slicers, dynamic layout  
+- Added calculated columns using advanced formulas – e.g., Income Brackets, "Has Kids", ordered Commute Distance  
+- KPI cards at the top (Total Customers, Purchase Rate %, Avg. Income, Avg. Age)  
+- All pivots connected via Data Model for full cross-filtering  
+- VBA macro with refresh button to update all pivots instantly
 
 ![Raw Data](02_Bike_Buyers_Dashboard/Project_screenshots/Raw_data1.jpg)
 ![Main Table](02_Bike_Buyers_Dashboard/Project_screenshots/Main_table2.jpg)
@@ -53,6 +58,8 @@ Advanced formulas, Pivto tables, slicers, own columns + macro VBA for a refreshi
 Linkedin: https://www.linkedin.com/in/pavlo-den
 Email: pashadenysyuk0@gmail.com
 
+Feel free to explore the projects on GitHub (links in the repository) or download the files to see them in action.  
+I'm always open to feedback and new opportunities!
 
-Thank you for visiting!
-
+Thanks for visiting and have a great day!  
+Pavlo
