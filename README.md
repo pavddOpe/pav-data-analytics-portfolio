@@ -21,6 +21,7 @@ Removed duplicates, standardized text values, handled NULLs and blanks, converte
 [Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Cleaning_Project.sql)
 
 ### 2. Exploratory Data Analysis Project - Layoffs 2022 (above related; My SQL)
+
 Deep dive into trends using advanced SQL:  
 - Total/percentage layoffs by company, industry, country, funding stage, and time  
 - Monthly trends with rolling (cumulative) totals using window functions  
@@ -35,8 +36,10 @@ Deep dive into trends using advanced SQL:
 [Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Exploratory_Data_Analysis_Project.sql)
 
 ### 3. Bike Buyers Dashboard (Excel)
-Built a fully interactive dashboard analyzing customer behavior and factors influencing bike purchases (1,000 records)
-Core features: pivot tables, pivot charts, slicers, dynamic layout  
+Built a fully interactive dashboard analyzing customer behavior and factors influencing bike purchases (1,000 records).
+
+**Core features**: 
+- Pivot tables, pivot charts, slicers, dynamic layout  
 - Added calculated columns using advanced formulas – e.g., Income Brackets, "Has Kids", ordered Commute Distance  
 - KPI cards at the top (Total Customers, Purchase Rate %, Avg. Income, Avg. Age)  
 - All pivots connected via Data Model for full cross-filtering  
