@@ -6,7 +6,7 @@ Here you can find some of my projects done in SQL, Excel, Tableau, Python, Power
 ## Projects
 
 ### 1. Data Cleaning - Layoffs 2022 (MySQL)
-Cleaning database of laid offs in technology companies among the few recent years - mostly COVID time affected.
+Cleaning database of laid offs in tech companies in the few recent years - mostly COVID time affected.
 Removing duplicates, standardizing, filling up NULLs fields, own system of measuring the quality of data + summarizing report.
 
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Duplicates_validation1.jpg)
