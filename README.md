@@ -50,8 +50,8 @@ Built a fully interactive dashboard analyzing customer behavior and factors infl
 ![Pivots](02_Bike_Buyers_Dashboard/Project_screenshots/Pivots3.jpg)
 ![Dashboard](02_Bike_Buyers_Dashboard/Project_screenshots/Final_dashboard_w_slices.jpg)
 
-![Description](02_Bike_Buyers_Dashboard/README.md)
-![File_download](02_Bike_Buyers_Dashboard/Bike_Buyers_Dashboard.xlsm)
+[Description](02_Bike_Buyers_Dashboard/README.md)
+[File_download](02_Bike_Buyers_Dashboard/Bike_Buyers_Dashboard.xlsm)
 
 ### 4. Seattle Airbnb Market Analysis Dashboard (Tableau)
 An interactive Tableau dashboard exploring the Seattle short-term rental market using Airbnb listings data (2016–2025). Visualizes key trends in average prices, availability/occupancy, property types, and neighborhood performance.
@@ -74,8 +74,8 @@ An interactive Tableau dashboard exploring the Seattle short-term rental market 
 ![Tableau_final1](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/final_dash9.jpg)
 ![Tableau_final2](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/final_dash10.jpg)
 
-![Dashboard1](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project_Addons/SummaryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Dashboard2](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project/SumupDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View_Dashboard1_on_Tableau_Public](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project_Addons/SummaryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View_Dashboard2_on_Tableau_Public](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project/SumupDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Work in progress with...:
 - Python
