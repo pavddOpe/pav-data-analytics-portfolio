@@ -27,4 +27,5 @@ Project is based on "Alex the Analyst Tutorial", but expended on my own changes 
 - **Macro VBA** refreshing all the tables with one click on a button.
 
 # Files
-- Bike_Buyers_Dashboard - main file with all the analysis done.
+[Bike_Buyers_Dashboard](02_Bike_Buyers_Dashboard/Bike_Buyers_Dashboard.xlsm) - main file with all the analysis done.
+
