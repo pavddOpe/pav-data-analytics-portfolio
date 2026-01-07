@@ -4,8 +4,8 @@ Interactive dashboard in Excel analyzing reasons that impact decision of buying 
 Dataset with 1000 records of customers with demographical data, income and occupation.
 
 Project is based on "Alex the Analyst Tutorial", but expended on my own changes and elements to show my knowledge and abilities.
-![Dashboard](02_Bike_Buyers_Dashboard/Project_screenshots/Final_dashboard_w_slices.jpg)
-## What was done
+![Screenshot](02_Bike_Buyers_Dashboard/Project_screenshots/Final_dashboard_w_slices.jpg)
+## What was done:
 - Preparation of data.
 - Cleaning the data.
 - **Added columns**:
@@ -28,5 +28,6 @@ All the Pivot tables connected via **Data Model**, thanks to what all the select
 
 # Files
 [Bike_Buyers_Dashboard](02_Bike_Buyers_Dashboard/Bike_Buyers_Dashboard.xlsm) - main file with all the analysis done.
+
 
 
