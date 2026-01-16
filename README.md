@@ -12,11 +12,8 @@ Cleaned a dataset of tech industry layoffs during and post-COVID era.
 Removed duplicates, standardized text values, handled NULLs and blanks, converted data types, created own system of measuring the quality of data + summarizing report.
 
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Duplicates_validation1.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Editing_the_data21.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Editing_the_data_2.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Joining3.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Data_quality4.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Final_report6.jpg)
 
 [Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Cleaning_Project.sql)
 
@@ -28,9 +25,7 @@ Removed duplicates, standardized text values, handled NULLs and blanks, converte
 - Yearly top 5 companies by layoffs using CTEs and DENSE_RANK()
 
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/Data_analyze1.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/filtering3.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/substring5.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/rolling6.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/CTE.jpg)
 
 [Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Exploratory_Data_Analysis_Project.sql)
@@ -45,8 +40,6 @@ Built a fully interactive dashboard analyzing customer behavior and factors infl
 - All pivots connected via Data Model for full cross-filtering  
 - VBA macro with refresh button to update all pivots instantly
 
-![Raw Data](02_Bike_Buyers_Dashboard/Project_screenshots/Raw_data1.jpg)
-![Main Table](02_Bike_Buyers_Dashboard/Project_screenshots/Main_table2.jpg)
 ![Pivots](02_Bike_Buyers_Dashboard/Project_screenshots/Pivots3.jpg)
 ![Dashboard](02_Bike_Buyers_Dashboard/Project_screenshots/Final_dashboard_w_slices.jpg)
 
@@ -63,23 +56,34 @@ An interactive Tableau dashboard exploring the Seattle short-term rental market 
 - Availability trends indicate seasonal occupancy patterns and overall market saturation over time.
 - Listing density and review activity highlight the most popular/active areas for hosts and guests.
 
-![Cleaning data](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/Data_cleaning1.jpg)
-![Cleaning data](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/TEXTJOINS2.jpg)
 ![Cleaning data_PY](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/Randomizer_in_Python3.jpg)
 ![Cleaning data](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/Choose_between_unique4.jpg)
-![Tableau](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/Joins_in_Tableau5.jpg)
 ![Tableau](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/Reducing_rows6.jpg)
-![Tableau_1st_sheet](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/1st_sheet7.jpg)
-![Tableau_2nd_sheet](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/price_by_location8.jpg)
 ![Tableau_final1](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/final_dash9.jpg)
-![Tableau_final2](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/final_dash10.jpg)
 
 [View_Dashboard1_on_Tableau_Public](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project_Addons/SummaryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [View_Dashboard2_on_Tableau_Public](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project/SumupDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+### 5. Professional Survey Analytics Dashboard (Power BI)
+In this project I created interactive dashboard that visualizes the real-world data received from hundreds respondents of one of global professional surveys. It is mainly showing global relation of people's job positions, industries, their average salaries and their satisfaction with different aspect of life. 
+
+**Key Insights**:
+- The dataset was cleaned and transformed entirely within Power BI using Power Query (no external tools like Excel or Python).
+- The goal was to transform raw, messy survey responses into meaningful insights about job titles, salaries, programming languages, job satisfaction, age demographics, and geographic distribution.
+- Transformed raw current age into interpretable buckets using chained IF-ELSE logic:
+    = Youth (≤20)
+    = Young Adulthood (20–44)
+    = Middle Adulthood (45–64)
+    = Elderly (65+)
+- 630 respondents worldwide, with an average age of 29.87 — data field is young and global.
+- Data Scientists have the highest average salary, followed by Data Engineers and Data Analysts.
+- Gender split: Nearly even (55.1% male, 44.9% female).
+
+![Cleaning data_PowerBI](04_Professional_Survey_Dashboard/Project_screenshots/Average_Salary_Power_Query.jpg)
+![Final_Dashboard](04_Professional_Survey_Dashboard/Project_screenshots/Final_Dashboard.jpg)
+
 ## Work in progress with...:
 - Python
-- Power BI
 
 ## Contact 
 Linkedin: https://www.linkedin.com/in/pavlo-den
