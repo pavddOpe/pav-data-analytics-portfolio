@@ -10,4 +10,5 @@ It's need to be mentioned that this project was created based on courses provide
 - Removed unnecessary columns and ensured data types were correct for accurate modeling and visualization.
   
 ![Main Dashboard](https://github.com/user-attachments/assets/caa4a679-cc0a-487a-905d-7925663bf2d8)
+
 [The Power BI file access](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/04_Professional_Survey_Dashboard/Professional%20Survey%20Analysis.pbix)
