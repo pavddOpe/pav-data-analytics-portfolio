@@ -32,10 +32,11 @@ After the cleaning I did deeper analyze of the data:
 ![Final_report6](https://github.com/user-attachments/assets/021c423d-023c-41f3-b799-3c5308a90549)
 
 ## Files
-= Layoffs_Exploratory_Data_Analysis_Project - full code[Full_Code](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Exploratory_Data_Analysis_Project.sql)
+- Layoffs_Exploratory_Data_Analysis_Project - full code[Full_Code](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Exploratory_Data_Analysis_Project.sql)
 - layoffs_original_dataset.csv - raw data[Dataset](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/01_Layoffs_Data_Cleaning_and_Analysing/layoffs_original_dataset.csv)
 
 New queries will be added in the nearest future :)
+
 
 
 
