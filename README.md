@@ -61,8 +61,8 @@ An interactive Tableau dashboard exploring the Seattle short-term rental market 
 ![Tableau](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/Reducing_rows6.jpg)
 ![Tableau_final1](03_Listings_Airbnb_Market_Analytics/screenshots_of_stages/final_dash9.jpg)
 
-[View_Dashboard1_on_Tableau_Public](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project_Addons/SummaryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[View_Dashboard2_on_Tableau_Public](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project/SumupDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Dashboard 1 on Tableau Public](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project_Addons/SummaryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link),
+[View Dashboard 2 on Tableau Public](https://public.tableau.com/views/Listings_Airbnb_Tableau_Project/SumupDashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 5. Professional Survey Analytics Dashboard (Power BI)
 In this project I created interactive dashboard that visualizes the real-world data received from hundreds respondents of one of global professional surveys. It is mainly showing global relation of people's job positions, industries, their average salaries and their satisfaction with different aspect of life. 
