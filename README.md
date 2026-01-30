@@ -11,7 +11,6 @@ Here are some of my completed projects (more coming soon!):
 Cleaned a dataset of tech industry layoffs during and post-COVID era.
 Removed duplicates, standardized text values, handled NULLs and blanks, converted data types, created own system of measuring the quality of data + summarizing report.
 
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Duplicates_validation1.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Editing_the_data_2.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/Project_screenshots/Data_quality4.jpg)
 
@@ -24,8 +23,7 @@ Removed duplicates, standardized text values, handled NULLs and blanks, converte
 - Monthly trends with rolling (cumulative) totals using window functions  
 - Yearly top 5 companies by layoffs using CTEs and DENSE_RANK()
 
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/Data_analyze1.jpg)
-![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/substring5.jpg)
+![Screenshot](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/01_Layoffs_Data_Cleaning_and_Analysing/screenshots/powerbi_dash.jpg)
 ![Screenshot](01_Layoffs_Data_Cleaning_and_Analysing/screenshots/CTE.jpg)
 
 [Detailed description and code](01_Layoffs_Data_Cleaning_and_Analysing/Layoffs_Exploratory_Data_Analysis_Project.sql)
@@ -82,8 +80,31 @@ In this project I created interactive dashboard that visualizes the real-world d
 ![Cleaning data_PowerBI](04_Professional_Survey_Dashboard/Project_screenshots/Average_Salary_Power_Query.jpg)
 ![Final_Dashboard](04_Professional_Survey_Dashboard/Project_screenshots/Final_Dashboard.jpg)
 
-## Work in progress with...:
-- Python
+### 6. # BMI Calculator
+
+Simple web-based BMI calculator built as a small personal project and part of my analytics portfolio.
+
+![Screenshot](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/05_BMI_calculator_w_PY/pictures/main_look.jpg)
+
+### What it does
+Enter your name (optional), weight in kilograms (kg) and height in meters (m) → get your BMI value and weight category (Underweight / Normal weight / Overweight / Obese / Severely obese / Morbidly obese).
+
+### How it was made
+- Written in **Python**.
+- Developed in **Visual Studio Code**.
+- Originally created as a Jupyter notebook using ipywidgets + Voila for interactive widgets.
+- Later prettified and deployed as a clean web app using **Gradio** on **Hugging Face Spaces**.
+- Pushed to **GitHub** for version control and sharing.
+
+### Live version
+Try it here:  
+👉 https://huggingface.co/spaces/jdPaDavan/bmi-calculator-x
+
+### A few notes
+- Measurements are intentionally in **kg** and **m** (standard scientific/medical units).
+- Getting the deployment working (especially matching files, Docker vs Gradio SDK, port issues, CSP errors, etc.) was surprisingly challenging — still learning a lot about web deployment, containers and cloud platforms through this project.
+
+Feedback welcome!
 
 ## Contact 
 Linkedin: https://www.linkedin.com/in/pavlo-den
@@ -92,5 +113,4 @@ Email: pashadenysyuk0@gmail.com
 Feel free to explore the projects on GitHub (links in the repository) or download the files to see them in action.  
 I'm always open to feedback and new opportunities!
 
-Thanks for visiting and have a great day!  
-Pavlo
+Thanks for visiting and have a great day!
