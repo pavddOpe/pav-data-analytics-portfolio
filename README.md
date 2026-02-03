@@ -120,6 +120,8 @@ All code written through **Visual Studio Code**.
 - Saves data to clean formats: CSV, XLSX
 - Modular structure – easy to add new websites/scrapers
 - Basic error handling & logging
+![Screenshot](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/06_Web_Scraping_w_PY/pics/Scraping.jpg)
+![Screenshot](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/06_Web_Scraping_w_PY/pics/Top_companies_dash.jpg)
 
 ## Contact 
 Linkedin: https://www.linkedin.com/in/pavlo-den
