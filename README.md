@@ -106,6 +106,21 @@ Try it here:
 
 Feedback welcome!
 
+### 7. # Web Page Scraping with Python
+
+A simple, tutorial based (with Alex The Analyst courses) modular web scraping tool built with Python.  
+Extracts data from website - **Top Polish Companies** - efficiently and respectfully (with user-agent rotation).
+
+Perfect for learning how the web scraping works, how the data of html can be transformed, how to create and clean tables in Python and how to create and save .xlsx files using Python. 
+All code written through **Visual Studio Code**.
+
+## Features
+
+- Scrapes static and dynamic content
+- Saves data to clean formats: CSV, XLSX
+- Modular structure – easy to add new websites/scrapers
+- Basic error handling & logging
+
 ## Contact 
 Linkedin: https://www.linkedin.com/in/pavlo-den
 Email: pashadenysyuk0@gmail.com
