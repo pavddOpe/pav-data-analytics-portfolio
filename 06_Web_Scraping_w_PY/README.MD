@@ -9,6 +9,7 @@ This is a basic web scraper that goes to https://en.wikipedia.org/wiki/List_of_l
 It saves everything neatly into a .xlsx file so you can open it in Excel, Google Sheets, or use it for further analysis.
 
 I made it for learning purposes — based on Alex The Analyst courses — nothing too complicated, just clean, working code that gets real data from the web page.
+![Screenshot](https://github.com/pavddOpe/pav-data-analytics-portfolio/blob/main/06_Web_Scraping_w_PY/pics/PY_table.jpg)
 
 ### Key Things I Learned
 
